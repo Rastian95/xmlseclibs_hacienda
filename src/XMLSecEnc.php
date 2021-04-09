@@ -1,5 +1,5 @@
 <?php
-namespace RobRichards\XMLSecLibs;
+namespace JRTEC\XMLSecLibs_Hacienda;
 
 use DOMDocument;
 use DOMNode;
