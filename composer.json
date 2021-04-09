@@ -1,0 +1,22 @@
+{
+    "name": "jrtec/xmlseclibs_hacienda",
+    "description": "A PHP library for XML Security Hacienda",
+    "type": "composer-plugin",
+    "license": "BSD-3-Clause",
+    "keywords": [
+        "xml",
+        "xmldsig",
+        "signature",
+        "security",
+        "hacienda CR"
+    ],
+    "autoload": {
+        "psr-4": {
+            "JRTEC\\XMLSecLibs_Hacienda\\": "src"
+        }
+    },
+    "require": {
+        "php": ">= 5.4",
+        "ext-openssl": "*"
+    }
+}
