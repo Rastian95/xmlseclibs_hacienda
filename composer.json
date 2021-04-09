@@ -1,7 +1,6 @@
 {
     "name": "jrtec/xmlseclibs_hacienda",
     "description": "A PHP library for XML Security Hacienda",
-    "type": "composer-plugin",
     "license": "BSD-3-Clause",
     "keywords": [
         "xml",
